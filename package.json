@@ -1,0 +1,22 @@
+{
+  "name": "bulk-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.12.16",
+    "lucide-react": "^0.254.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0",
+    "tailwindcss": "^4.2.1",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
